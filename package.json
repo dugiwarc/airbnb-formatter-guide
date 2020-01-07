@@ -1,0 +1,34 @@
+{
+  "name": "formatter-guide",
+  "version": "1.0.0",
+  "description": "```javascript\r     npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-node": "^4.0.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^1.19.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.17.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dugiwarc/airbnb-formatter-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dugiwarc/airbnb-formatter-guide/issues"
+  },
+  "homepage": "https://github.com/dugiwarc/airbnb-formatter-guide#readme"
+}
